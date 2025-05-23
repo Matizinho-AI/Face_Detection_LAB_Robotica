@@ -102,7 +102,7 @@ _Pista_: Ajusta los umbrales dentro de `face.py` si tu iluminación o cámaras v
 ## 🤝 Contribuir
 
 1. Haz un _fork_ del repo  
-2. Crea tu rama `feature/tu-mejora`  
+2. Crea tu rama `feature/tu-fork`  
 3. _Commit_ y abre un **PR** explicando tu cambio  
 4. Verifica que `pre-commit` y `pytest` pasen sin errores
 
